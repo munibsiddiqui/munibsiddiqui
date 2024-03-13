@@ -7,7 +7,7 @@
 ---
 
 🔭 **I’m currently working on:**  
-Leading the development and revamp of VPN applications at PureSquare, with a particular focus on iOS, macOS & tvOS platforms. I'm utilizing my expertise in Objective-C and Swift to drive significant performance improvements and enhance user experiences.
+Leading the development and revamp of VPN applications at [PureSquare](https://www.puresquare.com/), with a particular focus on iOS, macOS & tvOS platforms. I'm utilizing my expertise in Objective-C and Swift to drive significant performance improvements and enhance user experiences.
 
 🌱 **I’m currently learning:**  
 Deepening my knowledge in advanced iOS development techniques, exploring new features in Swift, and staying updated with the latest trends in mobile application architecture.
