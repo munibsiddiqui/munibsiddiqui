@@ -19,6 +19,13 @@ Exploring advanced application optimization techniques on iOS, and integrating A
 💬 **Ask me about:**  
 My extensive experience in iOS app development, best practices in Objective-C and Swift, managing dependencies with SPM and CocoaPods, and architecting high-performance mobile applications. I'm also happy to share insights on team leadership and project management in a tech-driven environment.
 
+🛠 **As an Engineering Manager:**
+- I focus on creating a positive and productive work environment for developers.
+- I conduct regular one-on-one meetings to mentor team members, addressing challenges, and fostering personal and professional growth.
+- I emphasize the importance of continuous learning and encourage my team to explore new technologies and methodologies.
+- I work closely with the team to optimize workflows, reduce bottlenecks, and implement agile practices that enhance efficiency and quality.
+- I ensure clear communication and alignment between technical and non-technical teams, bridging gaps and ensuring cohesive project progression.
+
 📫 **How to reach me:**  
 - Email: munibsiddiqui@gmail.com
 - LinkedIn: [munibsiddiqui](https://www.linkedin.com/in/munibsiddiqui)
