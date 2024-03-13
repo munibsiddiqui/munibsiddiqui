@@ -1,3 +1,5 @@
+![Alt text](https://media.licdn.com/dms/image/D4D16AQFjxV1ADD-LXQ/profile-displaybackgroundimage-shrink_350_1400/0/1675835944757?e=1715817600&v=beta&t=jhfE_MXMlDpl1TiPRiGtSEMIBXuL-DcxxXQ4nDjXbpI "PureSquare")
+
 # Munib Siddiqui
 
 ### Software Architect | Engineering Manager | iOS/macOS Development Expert
